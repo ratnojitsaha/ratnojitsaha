@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ratnojitsaha
-- 🌱 I’m currently learning Full Stack Developement
-- 💞️ I’m looking to collaborate on basic programing
+- 🌱 I’m currently learning Core CS Fundamentals.
+- 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me saharatnojit04@gmail.com
 
 <!---

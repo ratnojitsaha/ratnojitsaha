@@ -33,7 +33,7 @@
 
 ###
 
-### 🔭 I’m currently working on `VroomGo`  
+### 🔭 I’m currently working on `Core Computer Science Fundamentals and Data Structures and Algorithms`  
 ### 🌱 Currently learning **DSA, Aptitude, System Design**  
 ### 💬 Ask me about: **Java, OOP, DSA, Web Development**  
 ### 📫 Reach me at: **saharatnojit04@gmail.com**

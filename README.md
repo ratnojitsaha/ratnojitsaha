@@ -41,10 +41,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ratnojit-saha-854057268/" target="_blank">
+  <a href="https://www.linkedin.com/in/saharatnojit/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.leetcode.com/prime_ratno" target="_blank">
+  <a href="https://www.leetcode.com/u/Prime_ratno" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
 </div>
